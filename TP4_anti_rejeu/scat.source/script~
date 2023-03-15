@@ -1,0 +1,19 @@
+# script de test
+# commentaire
+
+
+
+reader 01
+
+#reset
+
+80 00 23 45 08
+
+80 01 00 00 05 "ABCDE"
+
+80 02 00 00 02
+
+80 02 00 00 05
+
+end
+

@@ -1,0 +1,4 @@
+say -s "fichier mondass"
+say -s 55 66 77
+#derniere ligne du fichier mondass
+

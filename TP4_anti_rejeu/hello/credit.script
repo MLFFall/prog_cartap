@@ -1,0 +1,12 @@
+#Script test anti rejeu
+reset
+#intro key
+80 01 00 00 10 3423120178675645bcab9a89f0efdecd
+#getKey
+80 03 00 00 10
+#getSolde
+80 04 00 00 02
+#credit
+80 02 00 00 08 4c d9 66 4d 1b 5d 12 93
+#get new Solde
+80 04 00 00 02
