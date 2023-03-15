@@ -198,7 +198,7 @@ int main(void)
 
 
 	// ATR
-  	atr(13,"version trois");
+  	atr(11,"Transaction");
 
 	ee_taille=0;
 	sw2=0;		// pour �viter de le r�p�ter dans toutes les commandes
