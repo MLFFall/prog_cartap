@@ -1,0 +1,12 @@
+#Petit script pour tester l'ajout de crédit
+reset
+#intro key
+80 01 00 00 10 3423120178675645bcab9a89f0efdecd
+#getKey
+80 03 00 00 10
+#getSolde
+80 04 00 00 08
+#credit de la banque
+80 02 00 00 08 0487d6dde3bd098c
+#get new Solde
+80 04 00 00 08
