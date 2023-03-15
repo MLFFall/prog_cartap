@@ -1,0 +1,4 @@
+#Petit script de test des transactions
+reset
+80 01 00 00 06 6C 61 6D 69 6E 65
+80 02 00 00 06

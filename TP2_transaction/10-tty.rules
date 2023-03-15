@@ -1,0 +1,3 @@
+# basic rule for write access to tty
+
+SUBSYSTEM=="tty", MODE="0666"
